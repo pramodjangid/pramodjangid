@@ -5,7 +5,7 @@ Java Backend Developer
 ----------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://aquamarine-bienenstitch-f52540.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://pramodjangid.github.io)
 * ✉️  You can contact me at [jangidpramod99@gmail.com](mailto:jangidpramod99@gmail.com)
 * 🧠  I'm learning Spring Security
 * 🤝  I'm open to collaborating on interesting projects
